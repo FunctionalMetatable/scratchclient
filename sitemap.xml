@@ -5,4 +5,24 @@
          <lastmod>2021-06-09</lastmod>
          <changefreq>daily</changefreq>
     </url>
+    <url>
+         <loc>https://CubeyTheCube.github.io/scratchclient/getting-started/</loc>
+         <lastmod>2021-06-09</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://CubeyTheCube.github.io/scratchclient/api-reference/</loc>
+         <lastmod>2021-06-09</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://CubeyTheCube.github.io/scratchclient/api-reference/Project/</loc>
+         <lastmod>2021-06-09</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://CubeyTheCube.github.io/scratchclient/api-reference/ScratchSession/</loc>
+         <lastmod>2021-06-09</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
 </urlset>
