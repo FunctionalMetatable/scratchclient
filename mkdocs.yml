@@ -1,3 +1,5 @@
+site_name: scratchclient docs
+site_url: https://CubeyTheCube.github.io/scratchclient/
 repo_url: https://github.com/CubeyTheCube/scratchclient
 repo_name: CubeyTheCube/scratchclient
 theme:
